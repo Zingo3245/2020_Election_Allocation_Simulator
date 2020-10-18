@@ -1,0 +1,3 @@
+# Election Simulator 2020
+
+This notebook simulates elections and determines a winner by looking at the remaining undecided voters in an average of polls and allocating them between the two candidates. More soon....
